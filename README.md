@@ -1,10 +1,10 @@
-# Product-Shop
+# Udemy Product-Shop
 
 # Project Title
 Product-Shop
 
 # Description
-An online shop application that you can register and add products using mongoDB database
+An online shop application that you can register and add products using mongoDB database. Made using udemy project as a template
 
 # Getting Started
 
